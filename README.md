@@ -1,2 +1,2 @@
 # Diagramas
-Diagramas UML
+Diagramas em UML - Linguagem de Modelagem Unificada - gráfica
