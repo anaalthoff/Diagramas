@@ -1,2 +1,2 @@
 # Diagramas
-Diagramas em UML - Linguagem de Modelagem Unificada - gráfica
+Diagramas em UML - Use Case
